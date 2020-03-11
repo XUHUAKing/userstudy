@@ -9,7 +9,7 @@ zhang_img_paths = sorted(glob('Percep_all/*T_zhang_et_al*'))
 Wei_img_paths = sorted(glob('Percep_all/*T_Wei_et_al*'))
 BDN_img_paths = sorted(glob('Percep_all/*T_BDN*'))
 Wen_img_paths = sorted(glob('Percep_all/*T_Wen_et_al_focused*'))
-CoRRN_img_paths= sorted(glob('Percep_all/*T_Yang_et_al*'))
+CoRRN_img_paths= sorted(glob('Percep_all/*T_CoRRN*'))
 Yang_img_paths= sorted(glob('Percep_all/*T_Yang_et_al*'))
 
 for j in range(50):
